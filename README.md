@@ -45,8 +45,7 @@ A .NET Core API to manage blocked countries and validate IP addresses using thir
 
 ## Swagger Documentation
 
-![Swagger UI Screenshot](Screenshot 2025-03-03 234308.png)
-
+![Swagger UI Screenshot](/Screenshot%202025-03-03%20234308.png)
 ## Implementation Details
 
 - Thread-safe in-memory storage using ConcurrentDictionary
