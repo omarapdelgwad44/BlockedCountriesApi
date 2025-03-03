@@ -45,7 +45,7 @@ A .NET Core API to manage blocked countries and validate IP addresses using thir
 
 ## Swagger Documentation
 
-![Swagger UI Screenshot](path/to/screenshot.png)
+![Swagger UI Screenshot](Screenshot 2025-03-03 234308.png)
 
 ## Implementation Details
 
